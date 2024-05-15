@@ -1,0 +1,3 @@
+var guests = ['Frank', 'Alice', 'Bob', 'Charlie', 'Grace', 'David', 'Eve', 'Helen'];
+console.log("I am inviting ".concat(guests.length, " people to dinner."));
+// Rest of the program...
